@@ -106,18 +106,6 @@ You can explore more of my work through my repositories and portfolio.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-![Rafael Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelrch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
-
-</div>
-
----
-
 ## 🧩 Professional Background
 
 I have more than **3 years of hands-on experience building digital products**, websites, landing pages, SaaS platforms and internal systems.
